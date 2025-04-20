@@ -9,12 +9,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Serse<span>&#39;</span>s Nest
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: Serse's Nest
+subtitle: "Humbly flying on borrowed wings"
+email: serse.russo@gmail.com
+name: Serse
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  The blog of an internet denizen, ranting about his nerdy hobbies.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
